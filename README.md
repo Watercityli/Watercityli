@@ -8,9 +8,9 @@ eren@devbox:~$ cat profile.json
 {
   "name": "Eren Gün",
   "status": "Computer Engineering Student @ Sakarya University",
-  "focus": ["Software Development", "System Architecture", "Open Source"],
+  "focus": ["Software Development", "Backend Architecture", "Web Applications"],
   "location": "Sakarya / Istanbul, TR",
-  "interests": ["Backend Systems", "Algorithm Design", "Automation"]
+  "interests": ["Data Management", "System Design", "Automation"]
 }
 ```
 
@@ -18,19 +18,19 @@ eren@devbox:~$ cat profile.json
 eren@devbox:~$ neofetch
 ```
 
-| 🖥️ **OS / Shell** | Linux / Bash / Zsh |
+| 🖥️ **OS / Shell** | Linux / Bash |
 | :--- | :--- |
 | 🎓 **Education** | Sakarya University - Computer Engineering |
-| ⚡ **Languages** | C++, C, Python, JavaScript / TypeScript |
-| 🛠️ **Tools & Tech** | Git, GitHub Actions, Docker, Linux CLI |
-| 🔭 **Currently Learning** | Cloud Native Tools & Backend Microservices |
+| ⚡ **Languages & Web** | Python, C++, HTML5, JavaScript |
+| 🗄️ **Database** | MongoDB |
+| 🛠️ **Tools & Tech** | Git, GitHub, VS Code |
 
 ---
 
 ### 💻 Tech Stack & Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,docker&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,js,mongodb&theme=dark" alt="skills" />
 </p>
 
 ---
