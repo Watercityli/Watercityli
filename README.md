@@ -30,25 +30,7 @@ eren@devbox:~$ neofetch
 ### 💻 Tech Stack & Toolbelt
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" width="52" height="52" alt="C++" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML5" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB" />
-  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><img src="https://via.placeholder.com/15/000000/000000?text=+" width="12" height="1" style="opacity:0;" /><a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a><img src="https://via.placeholder.com/15/000000/000000?text=+" width="12" height="1" style="opacity:0;" /><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a><img src="https://via.placeholder.com/15/000000/000000?text=+" width="12" height="1" style="opacity:0;" /><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a><img src="https://via.placeholder.com/15/000000/000000?text=+" width="12" height="1" style="opacity:0;" /><a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
 </p>
 
 ---
