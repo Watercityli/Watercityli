@@ -1,29 +1,49 @@
-# Merhaba, Ben Eren Gün 👋
+```markdown
+<div align="center">
 
-🎓 **Sakarya Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.  
-🚀 Yazılım geliştirme süreçlerine, modern mimarilere ve yeni teknolojiler öğrenmeye odaklanıyorum.
+# 👨‍💻 Eren Gün
+
+```bash
+eren@devbox:~$ cat profile.json
+
+```
+
+```json
+{
+  "name": "Eren Gün",
+  "status": "Computer Engineering Student @ Sakarya University",
+  "focus": ["Software Development", "System Architecture", "Open Source"],
+  "location": "Sakarya / Istanbul, TR",
+  "interests": ["Backend Systems", "Algorithm Design", "Automation"]
+}
+
+```
+
+```bash
+eren@devbox:~$ neofetch
+
+```
+
+| 🖥️ **OS / Shell** | Linux / Bash / Zsh |
+| --- | --- |
+| 🎓 **Education** | Sakarya University - Computer Engineering |
+| ⚡ **Languages** | C++, C, Python, JavaScript / TypeScript |
+| 🛠️ **Tools & Tech** | Git, GitHub Actions, Docker, Linux CLI |
+| 🔭 **Currently Learning** | Cloud Native Tools & Backend Microservices |
 
 ---
 
-### 🛠️ Teknolojiler & Beceriler
-
-<!-- Buradaki dilleri ve araçları kullandıklarına göre düzenleyebilirsin -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 💻 Tech Stack & Toolbelt
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Watercityli&show_icons=true&theme=tokyonight" alt="Eren's GitHub stats" />
-</p>
+### 📈 Activity & Stats
 
 ---
 
-### 📬 İletişim
+### 📡 Ping Me
 
-- 💼 **LinkedIn:** [Eren Gün](https://www.linkedin.com/in/eren-g%C3%BCn-10491a2ba/)
-- ✉️ **E-posta:** eren.gun1@ogr.sakarya.edu.tr
+```bash
+eren@devbox:~$ exit
+
+```
