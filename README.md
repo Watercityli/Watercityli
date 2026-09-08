@@ -1,12 +1,8 @@
-<div align="center">
-
-# 👨‍💻 Eren Gün
+<h1 align="center">👨‍💻 Eren Gün</h1>
 
 ```bash
 eren@devbox:~$ cat profile.json
 ```
-
-</div>
 
 ```json
 {
@@ -22,8 +18,6 @@ eren@devbox:~$ cat profile.json
 eren@devbox:~$ neofetch
 ```
 
-<div align="center">
-
 | 🖥️ **OS / Shell** | Linux / Bash / Zsh |
 | :--- | :--- |
 | 🎓 **Education** | Sakarya University - Computer Engineering |
@@ -36,7 +30,7 @@ eren@devbox:~$ neofetch
 ### 💻 Tech Stack & Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,docker&theme=dark" alt="skills" />
 </p>
 
 ---
@@ -48,7 +42,7 @@ eren@devbox:~$ neofetch
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Watercityli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Watercityli&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -56,13 +50,10 @@ eren@devbox:~$ neofetch
 ### 📡 Ping Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Watercityli&theme=tokyonight" alt="GitHub Stats" />
-</p>
-  <a href="mailto:eren.gun1@ogr.sakarya.edu.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eren-g%C3%BCn-10491a2ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eren.gun1@ogr.sakarya.edu.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ```bash
 eren@devbox:~$ exit
 ```
-
-</div>
