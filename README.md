@@ -18,12 +18,12 @@ eren@devbox:~$ cat profile.json
 eren@devbox:~$ neofetch
 ```
 
-| 🖥️ **OS / Shell** | Linux / Bash |
+| 🖥️ **OS / Shell** | Windows |
 | :--- | :--- |
 | 🎓 **Education** | Sakarya University - Computer Engineering |
 | ⚡ **Languages & Web** | Python, C++, HTML5, JavaScript |
 | 🗄️ **Database** | MongoDB |
-| 🛠️ **Tools & Tech** | Git, GitHub, VS Code |
+| 🛠️ **Tools & Tech** | Git, GitHub, VS Code, Antigravity |
 
 ---
 
