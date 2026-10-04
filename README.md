@@ -118,25 +118,45 @@ current_focus = {
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="JavaScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" alt="HTML5" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" alt="CSS3" />
 </p>
 
 ### Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" alt="Next.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" alt="MongoDB" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" alt="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="Visual Studio Code" alt="Visual Studio Code" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel" alt="Vercel" />
 </p>
 
 ---
@@ -145,15 +165,15 @@ current_focus = {
 
 I'm especially interested in systems involving:
 
-- Backend architecture
-- Database design
-- Role-based access control
-- Authentication & authorization
-- Audit logging
-- Multi-tenant systems
-- Privacy-conscious applications
-- Developer tooling
-- AI-powered software
+- Backend Architecture
+- Database Design
+- Role-Based Access Control
+- Authentication & Authorization
+- Audit Logging
+- Multi-Tenant Systems
+- Privacy-Conscious Applications
+- Developer Tooling
+- AI-Powered Software
 - Automation
 
 ---
@@ -187,7 +207,7 @@ I'm currently going deeper into:
 ├── Database Design
 ├── Software Architecture
 ├── Artificial Intelligence
-├── Agent-based Systems
+├── Agent-Based Systems
 └── Local Model Inference
 ```
 
@@ -208,7 +228,7 @@ Reservation Systems
       │
       ├── Scheduling
       ├── Capacity Management
-      ├── Role Based Access
+      ├── Role-Based Access
       ├── Admin Panels
       ├── Audit Logs
       └── Multi-Tenant Architecture
@@ -238,11 +258,13 @@ Iterate constantly.
   <img
     src="https://github-readme-stats.vercel.app/api?username=Watercityli&show_icons=true&hide_border=true&theme=github_dark"
     height="165"
+    alt="Eren Gün GitHub Stats"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watercityli&layout=compact&hide_border=true&theme=github_dark"
     height="165"
+    alt="Most Used Languages"
   />
 </p>
 
