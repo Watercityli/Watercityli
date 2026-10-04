@@ -7,7 +7,6 @@
 **I build things to understand how they work.**
 
 [Website](https://egun.dev) ·
-[ForMethods](https://egun.dev/formethods) ·
 [GitHub](https://github.com/Watercityli)
 
 </div>
@@ -50,41 +49,7 @@ Rather than focusing only on frameworks, I'm working toward understanding how so
 
 ---
 
-## 02 — Featured Project
-
-### 🧠 ForMethods
-
-> A modern, interactive programming reference built around learning by doing.
-
-**ForMethods** combines documentation, practical examples and executable playgrounds so developers can explore programming concepts without constantly switching between documentation, editors and online compilers.
-
-### Currently includes
-
-- Python method reference
-- Interactive Python playground powered by Pyodide
-- C++ playground
-- Practical code examples
-- Search & command palette
-- Structured method registry
-- Dark / light theme
-- Responsive interface
-- Multi-language architecture
-
-### Goal
-
-Build a clean programming reference where developers can:
-
-```txt
-Read → Understand → Edit → Run → Learn
-```
-
-### Explore
-
-👉 **[egun.dev/formethods](https://egun.dev/formethods)**
-
----
-
-## 03 — Current Focus
+## 02 — Current Focus
 
 ```python
 current_focus = {
@@ -96,7 +61,6 @@ current_focus = {
     ],
 
     "building": [
-        "ForMethods",
         "Web Applications",
         "Backend Systems",
         "Developer Tools"
@@ -113,7 +77,7 @@ current_focus = {
 
 ---
 
-## 04 — Tech Stack
+## 03 — Tech Stack
 
 ### Languages
 
@@ -161,7 +125,7 @@ current_focus = {
 
 ---
 
-## 05 — Engineering Interests
+## 04 — Engineering Interests
 
 I'm especially interested in systems involving:
 
@@ -178,7 +142,7 @@ I'm especially interested in systems involving:
 
 ---
 
-## 06 — How I Like to Build
+## 05 — How I Like to Build
 
 ```txt
 01. Keep the interface simple.
@@ -196,7 +160,7 @@ I'm especially interested in systems involving:
 
 ---
 
-## 07 — Currently Learning
+## 06 — Currently Learning
 
 I'm currently going deeper into:
 
@@ -217,28 +181,29 @@ Long-term, I want to build software where:
 
 ---
 
-## 08 — Real-World Software
+## 07 — Real-World Software
 
-I also enjoy building systems that solve practical operational problems.
+I enjoy building systems that solve practical operational problems.
 
 Some areas I'm experimenting with include:
 
 ```txt
-Reservation Systems
+Real-World Systems
       │
       ├── Scheduling
       ├── Capacity Management
       ├── Role-Based Access
       ├── Admin Panels
       ├── Audit Logs
-      └── Multi-Tenant Architecture
+      ├── Database Architecture
+      └── Multi-Tenant Systems
 ```
 
 I like projects where software replaces inefficient manual workflows with something simpler and more reliable.
 
 ---
 
-## 09 — Developer Philosophy
+## 08 — Developer Philosophy
 
 ```txt
 eren@devbox:~$ cat philosophy.txt
@@ -252,7 +217,7 @@ Iterate constantly.
 
 ---
 
-## 10 — GitHub Activity
+## 09 — GitHub Activity
 
 <p align="center">
   <img
@@ -270,15 +235,13 @@ Iterate constantly.
 
 ---
 
-## 11 — Connect
+## 10 — Connect
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/egun.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://egun.dev)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Watercityli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Watercityli)
-
-[![ForMethods](https://img.shields.io/badge/ForMethods-Programming%20Reference-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://egun.dev/formethods)
 
 </div>
 
